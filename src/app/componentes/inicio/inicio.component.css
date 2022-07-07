@@ -1,0 +1,33 @@
+.tittle {
+  margin: 20px;
+  text-align: center;
+}
+
+.texto{
+  display: flex;
+  width: 400px;
+  margin-left:200px;
+  margin-top: 100px;
+  font-family: 'Open Sans', sans-serif;
+}
+.img {
+  border-radius: 2px;
+  display: flex;
+  width: 30%;
+}
+.example-card {
+  max-width: 400px;
+  margin: 20px;
+}
+.secondtext {
+  margin-top: 20px;
+  font-size: 20px;
+}
+.img-example  {
+  border-radius: 100%;
+  width: 50px;
+  height: 40px;
+}
+.container {
+  background-color: transparent;
+}

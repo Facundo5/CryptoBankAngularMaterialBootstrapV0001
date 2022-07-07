@@ -1,0 +1,25 @@
+.example-card {
+  max-width: 400px;
+  margin: 15px;
+}
+.img-example  {
+  border-radius: 100%;
+  max-width: 50px;
+  height: 40px;
+}
+.tittle {
+  text-align: center;
+  background-color: #dee2e6;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+  border-radius: 20px;
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+}
+* {
+  font-family: 'Open Sans', sans-serif;
+}
+.container {
+  margin-bottom: 1000px;
+}
